@@ -1,0 +1,4 @@
+BIOS:
+Set:Video Memory size set to 64 MB
+Disable :TPM、Intel TXT、Virtualization Technology for Directed I/O (VTd)、LAN/WLAN auto switching
+Enable:Intel Management Enginge (ME) in "Advanced -> Remote Management Options"
